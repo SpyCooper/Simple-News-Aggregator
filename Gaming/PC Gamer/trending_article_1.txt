@@ -1,0 +1,43 @@
+----- Even Street Fighter 6 has been modded into VR now -----
+
+My Quest 2 is pretty much just a thing I play Beat Saber on at this 
+point, but it's always nice to see a flat game ported to VR. I've 
+played headset implementations of Quake 2 and various other '90s 
+shooters, and it's always felt right. The 1990s was peak VR mania, and 
+seeing the first-person games of that era through goggles that get 
+foggy if I put them on my hot face on a cold day seems like exactly 
+where they belong. I did not expect to see Street Fighter in VR, 
+however. 
+
+The VR implementation of Street Fighter 6 comes to us via Praydog in 
+the latest version of REFramework, which adds VR support to all RE 
+Engine games. That means it supports the modern Resident Evils 2 
+through 4, 7, and Village, but also Devil May Cry 5 and Monster Hunter 
+Rise. And, yes, now it supports Street Fighter 6. 
+
+It's not an obvious choice for VR, because who wants to see E. Honda 
+slam them down in first-person? OK, somebody out there absolutely does 
+want to see that, but it's not what REFramework delivers. Instead it's 
+implemented as if you're in the front row of the crowd cheering on 
+your favorite fighters of the street variety. The camera isn't always 
+100% under your control, zooming in varying amounts for special moves 
+and certain counters in a way I imagine might be a bit disorienting, 
+but it still looks pretty neat. 
+
+Most of the footage shows it being played without a HUD, but it's 
+clearly there as an option, and you can see what it looks like with 
+health bars in the Juri versus Cammy match around the one-minute mark. 
+You can also see some animation oddities, presumably due to your 
+increased freedom to view things from angles of your choosing, like 
+Cammy's head fully leaving her body like a bloodless Mortal Kombat 
+fatality. 
+
+Praydog has also taken over work on a universal VR injector for games 
+made in the Unreal Engine, which could eventually mean seeing any game 
+made in Unreal available in VR, with demo footage showing Stray, 
+Ghostrunner, Back For Blood, Satisfactory, The Quarry, and even Life 
+is Strange: True Colors all turned virtual. Maybe I should try playing 
+something other than Beat Saber after all.  
+
+
+Link to the original article: https://www.pcgamer.com/even-street-fighter-6-has-been-modded-into-vr-now/

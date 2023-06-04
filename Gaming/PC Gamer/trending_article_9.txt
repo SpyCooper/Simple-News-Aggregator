@@ -1,0 +1,35 @@
+----- After 13 years, Amnesia: The Dark Descent got Steam Workshop support out of nowhere -----
+
+In a surprise move, Frictional Games has introduced Steam Workshop 
+support for its foundational horror game, Amnesia: The Dark Descent. 
+The change came four days before the launch of the latest game in the 
+series, The Bunker, and brings The Dark Descent more in line with 
+later games from Frictional like Soma and Amnesia: Rebirth. 
+
+"We are well aware (and in awe) of the countless mods and custom 
+stories made throughout the years," Frictional wrote in its 
+announcement. "And now we've finally ensured you can publish and 
+install them smoothly via Steam." 
+
+Frictional has historically been friendly to modding already, making 
+level building tools for its in-house HPL engine freely available and 
+including a "custom story" option right in the main menu of compatible 
+games, making accessing user-made campaigns a cinch. Previously, mods 
+for The Dark Descent could primarily be found on ModDB and NexusMods. 
+
+The Steam Workshop compatibility offers more convenience for players 
+who want to access custom campaigns for Amnesia, as well as greater 
+discoverability for mod makers—it's a nice show of support from 
+Frictional to the community. I'm particularly intrigued by this HPL 
+engine Dark Souls 3 homage, "Profaned Capital," that was first 
+released in 2020 and now seems to be attracting renewed attention on 
+Steam. 
+
+The latest entry in the Amnesia series, The Bunker, launches in just a 
+few days, and it's shaping up to be something special. PCG staff 
+writer Morgan Park praised The Bunker's open-ended gameplay in an 
+earlier preview, finding it to be "inching toward the player agency 
+and emergent gameplay of a full-blown immersive sim."  
+
+
+Link to the original article: https://www.pcgamer.com/after-13-years-amnesia-the-dark-descent-has-gotten-steam-workshop-support-out-of-nowhere/

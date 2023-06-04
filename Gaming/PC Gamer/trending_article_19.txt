@@ -1,0 +1,275 @@
+----- After watching the explosive documentary on Disco Elysium's legal battle, I can't fathom how Disco Elysium 2 will ever be made -----
+
+Gaming YouTube channel People Make Games has released a massive two- 
+and-a-half hour-long investigation into the legal battle over new- 
+school PC gaming favorite, Disco Elysium, which has seen the game's 
+creative leads go to war with developer ZA/UM's corporate ownership 
+for control of the game and its future sequel. 
+
+The short version of the dispute is that three of the senior most 
+members of Disco Elysium's dev team, including Robert Kurvitz, who 
+began crafting the setting 20 years ago, left ZA/UM on bad terms at 
+the end of 2021. Those developers say they were forced out when they 
+discovered a scheme by a trio of investors to steal the company out 
+from under them, while the CEO they accuse claims they were fired for 
+failing to meet basic obligations as developers and for creating a 
+toxic work environment. 
+
+PMG spoke to all parties involved: not only the shareholders with 
+claims to ZA/UM and the Disco Elysium IP, but 16 current employees, 
+including four who went on the record and had interviews taped for the 
+documentary.  
+
+Throughout the dispute, Kurvitz has presented his story as one of a 
+punished artist struggling against anti-creative capitalists, but 
+whether or not that's true, the video is as unflattering to Disco 
+Elysium's ousted creatives as it is to the executive who pushed them 
+out—longtime collaborators at ZA/UM are highly critical of the former 
+leads and wearied by the ongoing turmoil. Kurvitz maintains that this 
+is all a tactical distraction designed "to create division between 
+workers." 
+
+In addition to the 12 ZA/UM employees who remained anonymous, PMG 
+spoke to multiple named employees. Disco Elysium writer Argo Tuulik 
+wrote iconic characters and scenes in Disco Elysium like Cuno, the 
+Hardie Boys, and the Tribunal. He was a longtime associate of Kurvitz 
+and Rostov dating back to the early 2000s, but said he felt the way 
+Kurvitz presented the events at ZA/UM was "dishonest and 
+manipulative."  
+
+I don't think he understood that to lead is a burden, not a 
+privilege." 
+
+Tuulik still has a fondness for Disco Elysium's early days: "It's the 
+hardest thing I've ever done in my life, but it's also the funnest 
+thing I've ever done in my life." He also expresses even further 
+nostalgia for his first tabletop sessions in the Elysium setting DM'd 
+by Kurvitz, and still praises him as an artist: "I played Dungeons and 
+Dragons maybe with five, six different Dungeon Masters. No one comes 
+close to Robert's storytelling ability. 
+
+"I think Robert has this uncanny ability to conceptualize things that 
+already exist in a way that they seem completely fresh and new." 
+
+At the same time, Tuulik is critical of Kurvitz' management style and 
+stance toward the press. When presented with a 2019 Rock Paper Shotgun 
+interview where Kurvitz claimed to have written "about half of the 
+million words in Disco Elysium," Tuulik responded, "I don't think 
+that's true. It doesn't seem fair. It's not strange to hear that, 
+because I've heard these crooked estimations before. I've heard worse 
+ones." 
+
+Tuulik continues: "The Thing with Robert is that he has this natural 
+charisma, he's an incredibly magnetic person… but it's easy to confuse 
+this with leadership skills. 
+
+"I don't think he understood that to lead is a burden, not a 
+privilege." 
+
+Tuulik, as well as ZA/UM lead artist Kaspar Tamsalu and Disco Elysium 
+writer/editor Justin Keenan, described the situation at the company as 
+being fluid and confused after the shipping of Disco Elysium, with 
+Kurvitz, Rostov, and Hindpere taking a sequence of sabbaticals during 
+a period of extensive growth and change. 
+
+Tamsalu, a childhood friend of Rostov and member of the art team on 
+the original game, attests to Rostov and Kurvitz "checking out" of the 
+studio for a lengthy sabbatical during a critical time—ZA/UM grew 
+rapidly from 30 to 100 employees in 2021. "We needed processes, we 
+needed to work on the studio culture, all kinds of policies," Tamsalu 
+explained. 
+
+"I think the two month vacation to top everything off was really 
+difficult for myself and some others to swallow." 
+
+
+Final Cut writer and editor on the original game Justin Keenan echoed 
+Tamsalu's frustrations with Kurvitz' mercurial nature, describing an 
+incident where Kurvitz requested writing tests from writers at ZA/UM 
+who had already worked on the Final Cut, told Keenan they were 
+insufficient, and requested that he inform those writers they would 
+not have main writing team duties on the sequel project. Kurvitz then 
+supposedly informed one of those writers that he had never even read 
+the sample, and had actually just dismissed it out of hand. Keenan was 
+similarly frustrated with long sabbaticals taken from other senior 
+members, describing an "coterie" of developers favored by Kurvitz at 
+the expense of others at ZA/UM. 
+
+Kurvitz would later defend his time taken off work as being what he 
+was legally entitled to under UK labor law, and described the 
+development of Disco Elysium as particularly grueling on himself and 
+Aleksander Rostov, with Tuulik noting in his interview that the final 
+crunch on Disco Elysium was particularly difficult for Rostov, and the 
+artist himself stating he suffered adverse psychological effects from 
+it for a long time after. 
+
+I think it's entirely understandable how the fans have responded. If I 
+had been outside, I'm pretty sure I would have responded the same 
+way." 
+
+ZA/UM chief technologist Petteri Sulonen, who has playtester and 
+"special thanks" credits on the original Disco Elysium, was highly 
+critical of Kurvitz' behavior: "When it finally happened, no, I wasn't 
+surprised, and I think, in retrospect, that any other solution or any 
+other outcome would have meant that Robert would really have had to 
+change fundamentally in many ways how he relates to his coworkers and 
+how he relates to their labor." 
+
+Additionally, Sulonen alleges that Kurvitz approached him shortly 
+before leaving ZA/UM with a request for Disco Elysium's source code, a 
+request that, if fulfilled, Sulonen believes would have cost him his 
+job. This fact was not known to Ilmar Kompus at the time of Kurvitz' 
+termination, whose original justification as recounted by Kurvitz was 
+"attempted theft of IP" to sell to another company, and while there 
+could be a number of explanations for Kurvitz' request and he was one 
+of the artistic progenitors of the IP, it was still an alarming 
+imposition for Sulonen. 
+
+As a final note on the ZA/UM employees, all four reported receiving 
+death threats from fans of the game who viewed them as having betrayed 
+Kurvitz, Rostov, and Hindpere, and said that their hesitancy to speak 
+on the record about these events stemmed from the toxic climate around 
+the conversation as much as professional concerns. With that being 
+said, Tamsalu and Sulonen describe sympathizing with fans viewing 
+these events from outside the company, and not liking how things 
+turned out, with Tamsalu stating: "If I had been on the outside, if my 
+final word had been no to Rostov when he invited me back, I might 
+believe him today. But I was there in the trenches doing the work, 
+dealing with their bullshit, and they just didn't care about anyone 
+else at all." 
+
+"I think it's entirely understandable how the fans have responded," 
+Sulonen explained to PMG. "If I had been outside, I'm pretty sure I 
+would have responded the same way. But it has felt really unfair." 
+
+PMG's conversations with current ZA/UM CEO Ilmar Kompus, as well as 
+Rostov and Kurvitz, are more illuminating for what they lack than 
+their actual content. Kompus has a lot to say about Rostov, Kurvitz 
+and Hindpere as employees, but largely deflected PMG's inquiries into 
+how he acquired his majority stake in ZA/UM, which is where Rostov and 
+Kurvitz say the malfeasance happened. Specifically, Kompus is accused 
+of "purchasing" a small piece of Disco Elysium 2 concept work for €1 
+and selling it back to the company for €4.8 million. This was the 
+central claim of Disco Elysium producer Kaur Kender's since-withdrawn 
+lawsuit against the company. 
+
+Kompus insists that he had secured verbal agreements from the other 
+shareholders for his acquisition of a majority stake in ZA/UM 
+following the departure of mega investor Margus Linnamäe, which 
+included giving Kurvitz and Rostov stake in a holding company with IP 
+related to Disco Elysium 2. Kompus is unable to provide documentation 
+of these agreements, which as PMG points out is mystifying behavior 
+from an experienced businessman operating at this level. 
+
+
+This is to say nothing about the involvement of Estonian businessman 
+Tõnis Haavel, who was found liable for millions of euros related to a 
+high-profile investment fraud case in Estonia. Haavel would eventually 
+declare bankruptcy in Latvia, and in a statement to PMG asserted that, 
+"Since the civil claim of 11M was sentenced to be paid jointly by 
+several persons, I have no way to know how much other sentenced 
+persons have paid them but I do know they got all my assets." 
+
+Haavel asserts that he did not declare bankruptcy in another country 
+to shield his assets from Estonian courts, while PMG reports that 
+Haavel appears to have distributed assets and stakes in valuable 
+ventures among close associates (including Ilmar Kompus) in-between 
+the implosion of his Azerbaijani land deal in 2008 and the court's 
+ruling against him a few years later. PMG also reports that a portion 
+of ZA/UM's UK subsidiary is owned by Haavel's romantic partner, Anu 
+Reiman, and that this is potential evidence of Haavel as a "shadow 
+shareholder" in ZA/UM through Reiman, with these payments and assets 
+obfuscated from the Estonian government. 
+
+The explosive success of Disco Elysium catapulted its scrappy, punk 
+development team, as well as the shady financiers they had as 
+bedfellows, to dizzying heights of international attention and 
+scrutiny. The alarming details surrounding Kompus and Haavel are 
+further complicated by testimony from the developers PMG interviewed 
+that they were genuinely active partners in Disco Elysium's 
+development—Haavel himself, of all people, is pointed to as an 
+effective organizer and producer. 
+
+The presence of Estonia's most famous perpetrator of investment fraud 
+among those accused by Kurvitz, Rostov, and Hindpere of stealing ZA/UM 
+is eyebrow raising to say the least, and the ousted developers' case 
+against the company seems to depend on whether they can prove Kompus 
+did not adequately inform them of his plans and indeed, purchased IP 
+from the company for €1 and sold it back for €4.8 million to secure 
+the funds to buy his majority stake—did these events go down in this 
+way, and if so, is it the sort of ethically dubious financial jiu 
+jitsu our legal system frowns upon, or just the normal, pedestrian 
+kind we've all become inured to? 
+
+It's not clear where anyone goes from here, no matter where the rights 
+end up after potentially years of legal battle. ZA/UM's next game, 
+whenever it releases, whether a Disco Elysium sequel or some other 
+project, will have this mess hanging over it if Kurvitz, Rostov, and 
+Hindpere are not involved, or, as Kurvitz mockingly puts in his 
+interview, they don't give a "these guys are ok" sort of public 
+statement. It's not clear that Disco Elysium's fanbase would ever 
+accept such a thing, no matter how many longtime developers like 
+Tuulik, Keenan, Solonen, or Tamsalu are involved with it—I'm not sure 
+I'd feel comfortable with another Elysium-set game in this scenario 
+either. 
+
+But while Hindpere came off as introspective and open to her former 
+colleagues' critique in conversation with PMG, Rostov and Kurvitz 
+avoided directly responding to criticisms from the likes of Tuulik, 
+instead responding with assertions of their own hardship in shipping 
+Disco Elysium and returning to the core claim that their company and 
+their life's work was stolen from them.  
+
+
+In a later comment sent to PMG, Kurvitz stated: "This last-minute push 
+is an attempt by Kompus and Haavel—direct superiors of the people 
+commenting here—to create division between workers. To bait us into a 
+public war of words in order to direct attention from their suspected 
+criminal activity. I will not participate in it." 
+
+Kurvitz, Rostov, and Hindpere's abilities as leaders and managers is 
+an issue distinct from the question of whether Kompus and Haavel broke 
+the law to steal ZA/UM and the Disco Elysium IP. But Kurvitz's 
+dismissal of his former artistic collaborators' credible complaints as 
+dishonest posturing on behalf of their capitalist masters only serves 
+to make those complaints more credible.  
+
+Kurvitz was more keen to counter Kompus' claims that he and Rostov had 
+attempted to sell Disco Elysium or aspects of it to Ubisoft, 
+Microsoft, Larian, or, bizarrely, Fallout New Vegas and Pentiment 
+project lead Josh Sawyer. Not Obsidian, just Josh Sawyer (which the 
+developer flatly denies). To extend the benefit of the doubt to 
+Kurvitz and Rostov, they argue that the public litigation of their 
+ability and fairness as leaders was introduced as a post-facto 
+justification for their ouster, and that the initial reason for their 
+firing was this accusation of IP theft, one they say is patently 
+false. They express a sense of moral indignation of their conduct 
+being put into question when they see their life's work having been 
+taken away.  
+
+While I'm sympathetic to that sense of righteous outrage, especially 
+given their decades-long effort to craft this setting, I still hoped 
+for or even expected more introspection and accountability to their 
+former colleagues and friends. How would the 100 current employees at 
+ZA/UM feel about working with them again, should they somehow win back 
+the company after years of legal proceedings? Do Kurvitz and Rostov 
+plan on starting over with an entirely new team at new studio Red 
+Info, should they win back the IP, and what would that look like, 
+knowing that Disco Elysium's development was a grueling ordeal that 
+nearly failed multiple times? The anecdotes of Kurvitz and Rostov's 
+former colleagues speak to the artists struggling to adapt to a more 
+traditional, corporatized game dev environment, while Disco Elysium 
+seems to have been a minor miracle delivered by a hungry, even 
+desperate crew of artists, many of whom had known each other for 
+years—a hard thing to whip up from scratch a second time.  
+
+I don't want to dismiss the strange cloud hanging over Haavel's 
+involvement, or the seriousness of Kurvitz, Rostov, and Hindpere's 
+allegations against Kompus, but barring some manner of compromise or 
+settlement between the parties involved in the dispute—which seems 
+impossible, as the situation currently stands—it looks right now like 
+winning the legal battle for Disco Elysium would be a pyrrhic victory 
+no matter who came out on top. 
+
+
+Link to the original article: https://www.pcgamer.com/after-watching-the-explosive-documentary-on-disco-elysiums-legal-battle-i-cant-fathom-how-disco-elysium-2-will-ever-be-made/

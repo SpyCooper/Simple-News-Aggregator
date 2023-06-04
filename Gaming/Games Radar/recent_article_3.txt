@@ -1,0 +1,66 @@
+----- Diablo patch 1.0.2d nerfs Barbarian shout again, but gives Necromancers a huge buff -----
+
+Diablo 4's latest patch notes are now live. 
+
+"The Diablo 4 team has been diligently monitoring your feedback," 
+Blizzard explains in a blog update that details the changes introduced 
+in patch 1.0.2d, which include another Barbarian nerf and a big buff 
+for Necromancer mains.  
+
+First up on the docket are "balance adjustments to Classes". 
+Explaining the thinking behind the changes, the team says that while 
+it's "quite happy with the performance of our Classes" overall, it 
+"knows there is always room for improvement". 
+
+"While we want players to both feel and be truly powerful, some Class 
+builds and synergies are outside of our bounds for what is reasonable 
+for the health of the game, so we are reducing their effectiveness," 
+the patch notes explain. "As an example, we generally want to avoid 
+creating situations where players can survive unreasonably high 
+amounts of damage for long periods of time because it too greatly 
+warps our vision for how combat should be in Diablo 4." 
+
+Consequently, along with reducing the overall effectiveness of Paragon 
+Glyphs, Barbarians will see their Challenging Shout damage reduction 
+gained from Skill Ranks halved, dropping from 4 per cent to 2 per 
+cent, and the Aspect of the Dire Whirlwind increased critical strike 
+chance per second nerfed from 5-10 per cent to 3-8 per cent.  
+
+Another big change affects the Gohr's Devastating Grips – the 
+explosive damage gained from Whirlwind has been chopped from 50-70 per 
+cent to just 16-26 per cent. Ooof. 
+
+Your maximum cooldown reduction for Blood Chieftain's Aspect has also 
+been nerfed, going from 12 to six seconds. 
+
+As for Necromancers? Their Blood Lance damage gets a boost from 67.5 
+per cent to 80. Army of the Dead also gets a buff and a cooldown 
+reduction – 30 to 45 per cent and 90 to 70 seconds, respectively – and 
+Blood Wave damage is boosted from 90 per cent to 120 per cent.  
+
+Other changes include "miscellaneous stability and crash fixes", a 
+solution to that issue where a Sorcerer's Deep Freeze makes others 
+permanently stunned if they are also at the mercy of another freezing 
+effect. For the full list of tweaks and changes, head on over to the 
+official website. 
+
+Despite some players crashing out of early runs following glitches and 
+bugs, it looks like hardcore Diablo 4 players will be crossing the 
+line to be one of the first 1000 players to hit level 100 on hardcore 
+mode later today. 
+
+And did you see that this Diablo 4 player has managed to beat the 
+Butcher despite being incredibly underlevelled? The Butcher is – as 
+many of us have learned the hard way – a meat-hooking nightmare that 
+turns up at random in dungeons and has killed off many a hardcore 
+run.  
+
+Here, however, it seemingly became stuck behind a wall of minions who 
+beat the Butcher whilst the player idles quietly at the bottom of the 
+screen.  
+
+Here are some games like Diablo to play until Diablo 4 launches for 
+all on June 6. 
+
+
+Link to the original article: https://www.gamesradar.com/diablo-patch-102d-nerfs-barbarian-shout-again-but-gives-necromancers-a-huge-buff/

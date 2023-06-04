@@ -1,0 +1,51 @@
+----- Diablo 4's first hotfix buffs enemies in the difficulty level you probably haven't even played yet -----
+
+Less than 24 hours after the start of its early access release, the 
+first Diablo 4 hotfix is live. The update makes minor nerfs to the 
+Sorcerer and Rogue classes, and makes life more difficult for everyone 
+by increasing the health of monsters at higher World Tiers. 
+
+Diablo 4 World Tiers are essentially difficulty levels. But the system 
+is a little more restrictive than many other games: To begin, you only 
+have access to two levels, Adventurer and Veteran—basically your 
+"easy" and "normal" levels. World Tier 3 (Nightmare) and World Tier 4 
+(Torment) don't become available until after you've completed the 
+campaign. 
+
+Moving to higher World Tiers increases both the challenge and the 
+reward: At World Tier 3, for instance, you'll get a 100% XP bonus, but 
+your non-physical resistances are reduced by 20% and the difficulty of 
+enemies is increased. But apparently not quite enough, as Blizzard has 
+now given them a bit of a health boost. 
+
+Rogues have been very slightly dialled back in the hotfix, as there 
+will now be a brief delay in marking enemies after their Inner Sight's 
+unlimited energy expires, while the sorcerer's Flame Shield will be 
+put on full cooldown when it's put into an Enchantment slot, so you'll 
+have to wait a bit before you can use it. 
+
+There's no indication as to exactly which World Tiers will have 
+healthier monsters, but the general feeling on Reddit is that it will 
+be W3 and W4, as the first two tiers are available immediately and not 
+"later." I've reached out to Blizzard to clarify, but frankly I think 
+Reddit's probably right. 
+
+The Diablo 4 hotfix, which takes the game to version 1.0.2, is a 
+server-side patch, which means you don't have to do anything—it's 
+already done. You can check out the full, very brief patch notes 
+below. 
+
+Sorcerer - Class Specialization 
+
+Flame Shield Enchantment 
+
+Rogue - Class Specialization 
+
+Inner Sight 
+
+Items  Shout Skill Cooldown Reduction 
+
+Miscellaneous 
+
+
+Link to the original article: https://www.pcgamer.com/diablo-4s-first-hotfix-buffs-enemies-in-the-difficulty-level-you-probably-havent-even-played-yet/

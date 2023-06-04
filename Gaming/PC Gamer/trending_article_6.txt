@@ -1,0 +1,55 @@
+----- Diablo 4's first big patch is here, and it's almost entirely game balance tweaks -----
+
+Hello everyone, we're still two days from the release of Diablo 4 and 
+I'm already tired to trying to keep up with class balance tweaks. It 
+has been negative two (-2) days since launch, sorry, two days since 
+early access launch for people who paid more and two days until proper 
+launch and we've got our first patch and it's... almost entirely nerfs 
+and buffs. Class balance tweaks! 
+
+The patch rolled out just a few hours later, and a brief overview of 
+the notes shows some nerfs for Barbarians, Rogues, and Sorcerers, 
+while Druids got a few buffs and Necromancers got almost exclusively 
+buffs. 
+
+Most notably, Barbarians' Challenging Shout had its damage reduction 
+per skill rank halved, while Rogues' Dark Shroud damage reduction per 
+shadow per skill rank was also halved and sorcerers lost two seconds 
+off of Shimmering Teleport's damage reduction. Several other Barbarian 
+skills were nerfed, and their notable Gohr's Devastating Grips item 
+was absolutely piledrivered into the dirt: Its Whirlwind explosion 
+damage gained was reduced from 50-70% down to 16-26%. Meanwhile, 15 of 
+the 16 tweaks to Necromancers increased their power. 
+
+Blizzard was very clear about their reasons for the patch, saying in 
+the notes: "While we want players to both feel and be truly powerful, 
+some Class builds and synergies are outside of our bounds for what is 
+reasonable for the health of the game, so we are reducing their 
+effectiveness. As an example, we generally want to avoid creating 
+situations where players can survive unreasonably high amounts of 
+damage for long periods of time because it too greatly warps our 
+vision for how combat should be in Diablo IV." 
+
+Also, I found this bugfix very funny: "Fixed an issue where if a 
+Sorcerer uses Deep Freeze and is affected by another effect that would 
+freeze them, it caused them to be permanently stunned." 
+
+The patch was announced in a note posted last night on Blizzard's 
+forums by community manager PezRadar about two hours before the patch 
+itself launched. Forewarning was given for those playing in hardcore 
+mode: "Because there is a new update and we have players playing in 
+hardcore, we want to make sure you all are given a heads up regarding 
+these changes beforehand," it said. 
+
+While I understand the nature of live service games means that these 
+tweaks feel urgent to many people, for my part, I hope this isn't the 
+pace of balance updates we can expect from Diablo 4. Patches tweaking 
+how skills work every two or three days will very, very rapidly become 
+tiresome when every time you log in your character works differently. 
+I can only hope that this whole damage reduction thing must have been 
+a really urgent issue visible only from Blizzard's backend stats. 
+
+You can read the whole set of patch notes on Blizzard's website. 
+
+
+Link to the original article: https://www.pcgamer.com/diablo-4s-first-big-patch-is-here-and-its-almost-entirely-game-balance-tweaks/
